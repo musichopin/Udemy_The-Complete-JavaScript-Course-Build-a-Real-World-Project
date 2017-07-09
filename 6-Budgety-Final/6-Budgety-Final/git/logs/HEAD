@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 0670e321fc038ce29aa0807a979e549b83888306 codingheroes <jonas@codingheroes.io> 1465555027 +0100	commit (initial): Initial commit
+0670e321fc038ce29aa0807a979e549b83888306 0670e321fc038ce29aa0807a979e549b83888306 codingheroes <jonas@codingheroes.io> 1465555167 +0100	checkout: moving from master to PaymentStatus
+0670e321fc038ce29aa0807a979e549b83888306 cf9db708d8d045fe51528639acd27d9b37cb4cc0 codingheroes <jonas@codingheroes.io> 1465555535 +0100	commit: Deleted all payment ststus code
